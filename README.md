@@ -1,2 +1,3 @@
 # Temperature_Converter
-This is a simple temperature converter webpage. This is task 2 of Bharat Intern web development virtual internship.
+# Task-2
+This is a simple temperature converter webpage using HTML, CSS and JS. This is task 2 of Bharat Intern web development virtual internship.
